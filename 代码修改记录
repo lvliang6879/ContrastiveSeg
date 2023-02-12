@@ -1,0 +1,7 @@
+修改了 backbone deepbase_resnet101_dilated8 -> resnet50
+修改了 bn_type torchsyncbn                  -> torchbn
+修改了 batch size
+
+
+
+问题一 trainer使用了混合精度训练
